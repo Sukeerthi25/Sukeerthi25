@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋 I'm a Java Full Stack Intern
 
-<!--
-**Sukeerthi25/Sukeerthi25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about building web applications using Java and modern frontend technologies.
 
-Here are some ideas to get you started:
+## 👨‍💻 Skills
+- **Backend:** Java, Spring Boot, JDBC
+- **Frontend:** HTML, CSS, JavaScript
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code, Eclipse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Spring Boot & REST APIs
+- Full Stack Application Development
+
+## 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/sukeerthi-ks-628477280
