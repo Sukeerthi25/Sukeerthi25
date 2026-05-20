@@ -1,5 +1,7 @@
+#Hi 👋, I'm Sukeerthi<br><br>Backend developer passionate about building scalable applications using Spring Boot and exploring AI-powered solutions.
+
 # 💫 About Me:
-Hi 👋, I'm Keerthi<br><br>Backend developer passionate about building scalable applications using Spring Boot and exploring AI-powered solutions.<br><br>🌱 I’m currently learning Spring Boot, Microservices, and Spring Security<br>💻 Building backend and AI-powered applications<br>☁️ Interested in AWS and Cloud Deployment<br>💬 Ask me about Backend Development, APIs, and Artificial Intelligence<br>📫 Reach me at itsmekeerthiii@gmail.com<br>📑 Check out my resume here → Resume<br>💻 Explore my projects on GitHub → GitHub Profile<br>💼 Connect with me on LinkedIn → LinkedIn
+🌱 I’m currently learning Spring Boot, Microservices, and Spring Security<br><br>💻 Building backend and AI-powered applications<br><br>☁️ Interested in AWS and Cloud Deployment<br><br>💬 Ask me about Backend Development, APIs, and Artificial Intelligence<br><br>📫 Reach me at itsmekeerthiii@gmail.com<br><br>📑 Check out my resume here → Resume<br><br>💻 Explore my projects on GitHub → GitHub Profile<br><br>💼 Connect with me on LinkedIn → LinkedIn
 
 
 # 💻 Tech Stack:
@@ -12,4 +14,3 @@ Hi 👋, I'm Keerthi<br><br>Backend developer passionate about building scalable
 ---
 [![](https://komarev.com/ghpvc/?username=Sukeerthi25&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
