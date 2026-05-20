@@ -1,4 +1,4 @@
-# Hi 👋 I'm a Java Full Stack Intern
+# Hi 👋 I'm am Sukeerthi
 
 🚀 Passionate about building web applications using Java and modern frontend technologies.
 
