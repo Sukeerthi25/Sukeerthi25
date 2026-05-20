@@ -1,4 +1,6 @@
-#Hi 👋, I'm Sukeerthi<br><br>Backend developer passionate about building scalable applications using Spring Boot and exploring AI-powered solutions.
+# Hi 👋, I'm Sukeerthi
+<br><br>
+Backend developer passionate about building scalable applications using Spring Boot and exploring AI-powered solutions.
 
 # 💫 About Me:
 🌱 I’m currently learning Spring Boot, Microservices, and Spring Security<br><br>💻 Building backend and AI-powered applications<br><br>☁️ Interested in AWS and Cloud Deployment<br><br>💬 Ask me about Backend Development, APIs, and Artificial Intelligence<br><br>📫 Reach me at itsmekeerthiii@gmail.com<br><br>📑 Check out my resume here → Resume<br><br>💻 Explore my projects on GitHub → GitHub Profile<br><br>💼 Connect with me on LinkedIn → LinkedIn
