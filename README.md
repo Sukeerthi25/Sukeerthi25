@@ -2,6 +2,7 @@
 Backend developer passionate about building scalable applications using Spring Boot and exploring AI-powered solutions.
 <br><br>
 ![](https://komarev.com/ghpvc/?username=Sukeerthi25&color=blue)
+<br><br>
 🌱 I’m currently learning Spring Boot.<br>
 💻 Building backend and AI-powered applications<br>
 ☁️ Interested in AWS and Cloud Deployment<br>
